@@ -1,23 +1,5 @@
-# Train RL agents to play Pokemon Red
+# Train RL agents to play Pokemon Crystal
 
-### New 1-29-24! - [Multiplayer Live Training Broadcast](https://github.com/pwhiddy/pokerl-map-viz/)  🎦 🔴 [View Here](https://pwhiddy.github.io/pokerl-map-viz/)
-Stream your training session to a shared global game map using the [Broadcast Wrapper](/baselines/stream_agent_wrapper.py)  
-
-See how in [Training Broadcast](#training-broadcast) section
-  
-## Watch the Video on Youtube! 
-
-<p float="left">
-  <a href="https://youtu.be/DcYLT37ImBY">
-    <img src="/assets/youtube.jpg?raw=true" height="192">
-  </a>
-  <a href="https://youtu.be/DcYLT37ImBY">
-    <img src="/assets/poke_map.gif?raw=true" height="192">
-  </a>
-</p>
-
-## Join the discord server
-[![Join the Discord server!](https://invidget.switchblade.xyz/RvadteZk4G)](http://discord.gg/RvadteZk4G)
   
 ## Running the Pretrained Model Interactively 🎮  
 🐍 Python 3.10+ is recommended. Other versions may work but have not been tested.   
